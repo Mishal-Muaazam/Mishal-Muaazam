@@ -1,19 +1,15 @@
-# MishalMuaazam
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1f1f1f,100:ffffff&text=Hi,%20I'm%20Anam%20Ghafoor&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=AI/ML%20Engineer%20in%20Progress%20%7C%20CS%20Student%20%7C%20Builder&descSize=16&descAlignY=58" />
+<img src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:0f0f0f,50:1f1f1f,100:ffffff&text=Hi,%20I'm%20Mishal%20Muaazam&fontColor=ffffff&fontSize=42&fontAlignY=38&desc=CS%20Student%20%7C%20Developer%20%7C%20AI%2FML%20Learner&descSize=16&descAlignY=58" />
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=AI%2FML+Engineer+in+Progress;Machine+Learning+%7C+Deep+Learning+%7C+GenAI;Building+real-world+AI+projects;Always+learning%2C+always+improving" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=25&pause=1000&color=FFFFFF&center=true&vCenter=true&width=800&lines=Welcome+to+my+GitHub+Profile;Python+%7C+Web+Development+%7C+Compiler+Projects;Learning+AI%2FML+and+Building+Real+Projects;Code.+Build.+Improve." />
 
 <br><br>
 
-<a href="mailto:anam.ghafoor00@gmail.com">
+<a href="mailto:your-email@gmail.com">
   <img src="https://img.shields.io/badge/Email-ffffff?style=for-the-badge&logo=gmail&logoColor=black" />
 </a>
-<a href="https://www.linkedin.com/in/anam-ghafoor-6b6b65371">
-  <img src="https://img.shields.io/badge/LinkedIn-ffffff?style=for-the-badge&logo=linkedin&logoColor=black" />
-</a>
-<a href="https://github.com/MishalMuaazam">
+<a href="https://github.com/Mishal-Muaazam">
   <img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" />
 </a>
 
@@ -23,14 +19,14 @@
 
 ## ✨ About Me
 
-I am a **Computer Science student** passionate about **Artificial Intelligence, Machine Learning, Deep Learning, and Generative AI**.  
-I enjoy building practical AI projects, learning modern tools, and improving my GitHub step by step.
+I am a **Computer Science student** interested in **software development, web development, compiler design, and AI/ML**.  
+I enjoy building practical projects, learning new technologies, and improving my coding skills step by step.
 
-- 🔭 Currently working on AI/ML and compiler-based projects  
-- 🌱 Learning Generative AI, LLM apps, automation, and advanced ML  
-- 🎯 Goal: Become a strong AI/ML Engineer  
-- 💻 Interested in real-world projects, internships, and open-source work  
-- ⚡ I believe in learning by building  
+- 🔭 Currently working on real-world programming projects  
+- 🌱 Learning Python, AI/ML, web development, and compiler concepts  
+- 💻 Interested in building clean and useful software  
+- 🚀 Goal: become a strong developer with a professional GitHub profile  
+- ⚡ I believe consistency matters more than perfection  
 
 ---
 
@@ -38,14 +34,14 @@ I enjoy building practical AI projects, learning modern tools, and improving my 
 
 <div align="center">
 
-<img src="https://skillicons.dev/icons?i=python,js,html,css,cpp,git,github,vscode,mysql,flask" />
+<img src="https://skillicons.dev/icons?i=python,cpp,html,css,js,git,github,vscode,mysql,flask" />
 
 <br><br>
 
-<img src="https://img.shields.io/badge/Machine%20Learning-ffffff?style=for-the-badge&logo=scikitlearn&logoColor=black" />
-<img src="https://img.shields.io/badge/Deep%20Learning-ffffff?style=for-the-badge&logo=tensorflow&logoColor=black" />
-<img src="https://img.shields.io/badge/Generative%20AI-ffffff?style=for-the-badge&logo=openai&logoColor=black" />
-<img src="https://img.shields.io/badge/Data%20Science-ffffff?style=for-the-badge&logo=pandas&logoColor=black" />
+<img src="https://img.shields.io/badge/Python-ffffff?style=for-the-badge&logo=python&logoColor=black" />
+<img src="https://img.shields.io/badge/Web%20Development-ffffff?style=for-the-badge&logo=html5&logoColor=black" />
+<img src="https://img.shields.io/badge/Compiler%20Design-ffffff?style=for-the-badge&logo=codeforces&logoColor=black" />
+<img src="https://img.shields.io/badge/GitHub-ffffff?style=for-the-badge&logo=github&logoColor=black" />
 
 </div>
 
@@ -57,18 +53,18 @@ I enjoy building practical AI projects, learning modern tools, and improving my 
 <tr>
 <td width="50%">
 
-### 🧠 Migraine Analyzer  
-AI/ML based project for analyzing migraine-related patterns and making predictions using machine learning.
+### 💻 BRUT Compiler  
+A compiler-related project that includes programming language concepts, code structure, and development practice.
 
-**Tech:** Python, ML, Data Processing, Model Evaluation
+**Tech:** Python, Compiler Design, GitHub
 
 </td>
 <td width="50%">
 
-### 💻 BRUT / BRAT Compiler  
-A custom programming language/compiler project with lexer, parser, AST, code generation, and VS Code extension planning.
+### 🌐 AMRS Website  
+A web development project focused on frontend structure and website presentation.
 
-**Tech:** Python, Compiler Design, VS Code Extension
+**Tech:** HTML, CSS, JavaScript
 
 </td>
 </tr>
@@ -76,18 +72,18 @@ A custom programming language/compiler project with lexer, parser, AST, code gen
 <tr>
 <td width="50%">
 
-### 🤖 Student Stress Predictor  
-Machine learning system for predicting student stress using data analysis and model training.
+### 🧩 AMRS Project  
+A project repository showing practical implementation and coding work.
 
-**Tech:** Python, Scikit-learn, Data Analysis
+**Tech:** Web Development
 
 </td>
 <td width="50%">
 
-### 🏆 SOFTEC ML Hackathon  
-Medical cost prediction project built during hackathon participation.
+### 📌 More Projects Coming Soon  
+I am continuously learning and adding more professional projects to my GitHub.
 
-**Achievement:** Ranked among top participants
+**Focus:** Python, AI/ML, Web, Software Development
 
 </td>
 </tr>
@@ -99,13 +95,13 @@ Medical cost prediction project built during hackathon participation.
 
 <div align="center">
 
-<img width="48%" src="https://github-readme-stats.vercel.app/api?username=MishalMuaazam&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
+<img width="48%" src="https://github-readme-stats.vercel.app/api?username=Mishal-Muaazam&show_icons=true&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9&icon_color=ffffff" />
 
-<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=MishalMuaazam&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
+<img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=Mishal-Muaazam&theme=dark&hide_border=true&background=0d1117&stroke=ffffff&ring=ffffff&fire=ffffff&currStreakLabel=ffffff" />
 
 <br><br>
 
-<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MishalMuaazam&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
+<img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mishal-Muaazam&layout=compact&theme=dark&hide_border=true&bg_color=0d1117&title_color=ffffff&text_color=c9d1d9" />
 
 </div>
 
@@ -115,7 +111,7 @@ Medical cost prediction project built during hackathon participation.
 
 <div align="center">
 
-<img src="https://raw.githubusercontent.com/MishalMuaazam/MishalMuaazam/output/snake.svg" alt="Snake animation" />
+<img src="https://raw.githubusercontent.com/Mishal-Muaazam/Mishal-Muaazam/output/snake.svg" alt="Snake animation" />
 
 </div>
 
@@ -124,9 +120,9 @@ Medical cost prediction project built during hackathon participation.
 ## 🌟 Current Focus
 
 ```txt
-AI/ML Foundations        █████████░░
-Deep Learning            ███████░░░░
-Generative AI            ████████░░░
-Python Development       █████████░░
-Compiler Design          ███████░░░░
-GitHub & Open Source     ██████░░░░░
+Python Development       ████████░░
+Web Development          ███████░░░
+Compiler Design          ██████░░░░
+Git & GitHub             ████████░░
+AI/ML Learning           █████░░░░░
+Project Building         ████████░░
